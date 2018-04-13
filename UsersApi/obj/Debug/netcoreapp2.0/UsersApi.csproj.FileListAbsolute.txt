@@ -1,0 +1,11 @@
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.deps.json
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.runtimeconfig.json
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.runtimeconfig.dev.json
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.dll
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\bin\Debug\netcoreapp2.0\UsersApi.pdb
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.csprojResolveAssemblyReference.cache
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.csproj.CoreCompileInputs.cache
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.AssemblyInfoInputs.cache
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.AssemblyInfo.cs
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.dll
+C:\Users\liseguest\source\repos\UsersApi\UsersApi\obj\Debug\netcoreapp2.0\UsersApi.pdb

@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  usersapi:
+    build:
+      context: C:\Users\liseguest\source\repos\UsersApi
+      dockerfile: UsersApi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: usersapi
+    ports:
+    - 80/tcp
+version: '3.0'
